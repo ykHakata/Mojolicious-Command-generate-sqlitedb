@@ -1,0 +1,1 @@
+# Mojolicious-Command-generate-sqlitedb
